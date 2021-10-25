@@ -1,3 +1,13 @@
+/* 
+ <JUEGO DEL AHORCADOL>  
+Utilizando un arreglo bidimensional, implementar una versión en 
+consola del juego del ahorca
+
+Hecho por: Jose Kaleb Ruelas Loo  No. de Control 20550387  
+           Irving Javier Gardea Beltran No. de Control 20550406
+           <23/10/2021> 
+
+*/ 
 package juego.del.ahorcado;
 
 import java.util.Arrays;
